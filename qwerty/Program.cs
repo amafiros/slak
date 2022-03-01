@@ -16,11 +16,11 @@ namespace qwerty
             }
             double plus(double a1, double b1)
             {
-                return a1 + b1;
+             
             }
             double umn(double a1, double b1)
             {
-
+                return a1 + b1;
             }
             double del(double a1, double b1)
             {
