@@ -20,11 +20,11 @@ namespace qwerty
             }
             double umn(double a1, double b1)
             {
-                return a1 * b1;
+             
             }
             double del(double a1, double b1)
             {
-
+                return a1 / b1;
             }
             double a = 0;
             double b = 0;
